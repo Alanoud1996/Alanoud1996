@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alanoud1996
 - 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning seift & python
+- 🌱 I’m currently learning  Swift & python
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on the Apple Developer Academy 
 
 
